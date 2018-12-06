@@ -41,7 +41,7 @@ The following **stretch** user stories are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/FKbUQQ9.gif
+https://i.imgur.com/5zTQ7nk.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
